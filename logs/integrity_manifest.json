@@ -1,7 +1,7 @@
 {
-  "ts": "2026-02-08T23:20:53Z",
-  "root": "16f2fdb75da6ab6dfb0200d2e930a94d4843bc8a004c9ab6486bb25439906b03",
-  "prev_root": "3757165f8e4ca08b5df83d0025cef0431c59c4597f14facbda6d69f14035085f",
+  "ts": "2026-02-08T23:22:39Z",
+  "root": "77a5f7de3e584eda8b4e06910b240d431ab9e22d153e26f653aeffc6571e05e1",
+  "prev_root": "16f2fdb75da6ab6dfb0200d2e930a94d4843bc8a004c9ab6486bb25439906b03",
   "counts": {
     "dna": 1,
     "core_knowledge": 2,
