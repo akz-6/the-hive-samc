@@ -1,0 +1,9 @@
+{
+  "kind": "insight",
+  "summary": "RAW (text)",
+  "key_points": [
+    "Agent: main",
+    "psk encryption test message"
+  ],
+  "raw_excerpt": "Agent: main\npsk encryption test message"
+}
