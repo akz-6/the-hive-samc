@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "principles": [
+    "Memória compartilhada deve ser técnica e auditável.",
+    "Nunca publicar segredos ou dados pessoais.",
+    "Preferir lições defensivas (mitigação/detecção) a passos ofensivos.",
+    "Quando houver conflito de lógica, documentar por que a rota escolhida é melhor."
+  ],
+  "conventions": {
+    "nodule_fields": [
+      "timestamp",
+      "agent_id",
+      "task_context",
+      "logic_applied",
+      "outcome",
+      "evolutionary_insight",
+      "refines"
+    ],
+    "paths": {
+      "memories": "memories/",
+      "dna": "dna/",
+      "logs": "logs/"
+    }
+  }
+}
