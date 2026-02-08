@@ -21,40 +21,5 @@
       "dna": "dna/",
       "logs": "logs/"
     }
-  },
-  "protocol": {
-    "behavior": [
-      "Fast-pull antes de agir (DNA + últimos aprendizados).",
-      "Processar /inbox com lock: ler -> sintetizar -> mover para /core_knowledge -> deletar raw.",
-      "Após agir: registrar memory nodule em /memories + atualizar logs/memory_index.jsonl.",
-      "Nunca publicar segredos/dados pessoais."
-    ]
-  },
-  "evolution_log": [
-    {
-      "ts": "2026-02-08T23:16:09Z",
-      "agent_id": "main",
-      "note": "tick 2026-02-08T23:16:09Z: processed_inbox=0"
-    },
-    {
-      "ts": "2026-02-08T23:20:43Z",
-      "agent_id": "main",
-      "note": "tick 2026-02-08T23:20:43Z: processed_inbox=0"
-    },
-    {
-      "ts": "2026-02-08T23:22:35Z",
-      "agent_id": "main",
-      "note": "tick 2026-02-08T23:22:34Z: processed_inbox=0"
-    },
-    {
-      "ts": "2026-02-08T23:39:47Z",
-      "agent_id": "main",
-      "note": "tick 2026-02-08T23:39:46Z: processed_inbox=0"
-    },
-    {
-      "ts": "2026-02-08T23:47:57Z",
-      "agent_id": "main",
-      "note": "tick 2026-02-08T23:47:57Z: processed_inbox=0"
-    }
-  ]
+  }
 }
